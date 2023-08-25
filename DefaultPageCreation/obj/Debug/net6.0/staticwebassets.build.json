@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "86/AJciZF3O7yhQCa7t/XuJBcDxdRNtk6bRlsQzyExo=",
+  "Source": "DefaultPageCreation",
+  "BasePath": "_content/DefaultPageCreation",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "DefaultPageCreation/wwwroot",
+      "Source": "DefaultPageCreation",
+      "ContentRoot": "/Users/appperfect/Projects/ThirdWebCoreApplication/DefaultPageCreation/wwwroot/",
+      "BasePath": "_content/DefaultPageCreation",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/appperfect/Projects/ThirdWebCoreApplication/DefaultPageCreation/wwwroot/index.html",
+      "SourceId": "DefaultPageCreation",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/appperfect/Projects/ThirdWebCoreApplication/DefaultPageCreation/wwwroot/",
+      "BasePath": "_content/DefaultPageCreation",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    },
+    {
+      "Identity": "/Users/appperfect/Projects/ThirdWebCoreApplication/DefaultPageCreation/wwwroot/MyCustomPage1.html",
+      "SourceId": "DefaultPageCreation",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/appperfect/Projects/ThirdWebCoreApplication/DefaultPageCreation/wwwroot/",
+      "BasePath": "_content/DefaultPageCreation",
+      "RelativePath": "MyCustomPage1.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/MyCustomPage1.html"
+    }
+  ]
+}
