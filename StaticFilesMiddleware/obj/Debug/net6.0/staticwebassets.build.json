@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "hm13P984bkFek1ld+dgEVgwBXUetyeWQQuOo6Ds1x90=",
+  "Source": "StaticFilesMiddleware",
+  "BasePath": "_content/StaticFilesMiddleware",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "StaticFilesMiddleware/wwwroot",
+      "Source": "StaticFilesMiddleware",
+      "ContentRoot": "/Users/appperfect/Projects/ThirdWebCoreApplication/StaticFilesMiddleware/wwwroot/",
+      "BasePath": "_content/StaticFilesMiddleware",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/appperfect/Projects/ThirdWebCoreApplication/StaticFilesMiddleware/wwwroot/MyImage.png",
+      "SourceId": "StaticFilesMiddleware",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/appperfect/Projects/ThirdWebCoreApplication/StaticFilesMiddleware/wwwroot/",
+      "BasePath": "_content/StaticFilesMiddleware",
+      "RelativePath": "MyImage.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/MyImage.png"
+    }
+  ]
+}
